@@ -19,9 +19,9 @@
 13. Azure Standard Load Balancer using Portal
 14. Azure Standard Load Balancer Basics 
 15. Azure Standard Load Balancer - Inbound NAT Rules
-16. Terraform Meta-Argument Count with Azure LB and VMs
-17. Terraform Meta-Argument for_each with Azure LB and VMs
-18. Azure Virtual Machine Scale Sets Basics - Manual Scaling
+16. Terraform Meta-Argument Count with Azure LB and VMs(to do by self) take content from 15
+17. Terraform Meta-Argument for_each with Azure LB and VMs(to do by self) take content from 15
+18. Azure Virtual Machine Scale Sets Basics - Manual Scaling - After 16/17 do this to get the difference
 19. Azure Virtual Machine Scale Sets Basics - Auto Scaling 4 Profiles
 20. Azure Internet LB + Web VMSS + Internal LB + App VMSS
 21. Azure Private DNS Zones

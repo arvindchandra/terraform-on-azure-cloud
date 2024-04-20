@@ -6,6 +6,7 @@ output "web_linuxvm_private_ip_address_list" {
   #value = azurerm_linux_virtual_machine.web_linuxvm.private_ip_address
   value = [for vm in azurerm_linux_virtual_machine.web_linuxvm: vm.private_ip_address]
 }
+# value = [azurerm_network_interface.web_linuxvm_nic[*].private_ip_addresses]
 
 # Output Map  - Single Input to for loop
 output "web_linuxvm_private_ip_address_map" {
